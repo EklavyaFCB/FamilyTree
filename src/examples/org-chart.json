@@ -1,0 +1,36 @@
+{
+  "name": "Shree Devi",
+  "attributes": {
+    "Info": "Click me"
+  },
+  "children": [
+    {
+      "name": "Sheela Rani",
+      "attributes": {
+        "Gender": "F",
+        "Spouse": "Satish Chandra"
+      }
+    },
+    {
+      "name": "Rita Mussadi",
+      "attributes": {
+        "Gender": "F",
+        "Spouse": "Venoy Dalmy"
+      }
+    },
+    {
+      "name": "Ramesh Mussadi",
+      "attributes": {
+        "Gender": "M",
+        "Spouse": "Kusum"
+      }
+    },
+    {
+      "name": "Kusum Mussadi",
+      "attributes": {
+        "Gender": "F",
+        "Spouse": "Suresh"
+      }
+    }
+  ]
+}
